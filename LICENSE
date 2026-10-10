@@ -1,0 +1,15 @@
+Copyright (c) 2026 Han Mingke (韩明珂)
+
+The repository landing README.md and ARCHIVE_SHA256.txt are licensed under
+Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+Full terms: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+The ZIP archive contains file-specific licences:
+- Method documentation and synthetic JSON: CC BY 4.0.
+- tests/*.py illustrative Python examples: MIT.
+See the archive's LICENSE and LICENSES/ for exact scope and notices.
+These licences are not alternatives for each file. External cited works
+are not redistributed or relicensed. Customer materials and the full
+commercial implementation are not included or licensed. No warranties
+or certification of novelty, patentability or training efficacy are given.
